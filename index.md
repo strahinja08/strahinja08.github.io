@@ -1,3 +1,3 @@
 ## Guessing Game
 
-This webpage rcontaints files for the Guessing Game assigmnet.
+This webpage contain files for the Guessing Game assigmnet.
